@@ -203,7 +203,7 @@ class TrafficAnalyzer:
 
 
 if __name__ == "__main__":
-    INTERFACE = "eth0"   # replace with your VM interface
+    INTERFACE = "eth0"   
     CAPTURE_TIME = 30
     PCAP_FILE = "captured.pcap"
 
